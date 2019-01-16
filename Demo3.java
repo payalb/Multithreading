@@ -24,3 +24,6 @@ class Task4 implements Runnable{
 		}
 	}
 }
+
+
+//Employee: 5 employee : hashmap: hashcode, equals, immutable
